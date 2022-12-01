@@ -121,7 +121,7 @@ Create an account in [the movie database](https://www.themoviedb.org/.)[5] Once 
 
 ## Discussion
 - The movie recommendation helps us suggest which movie has related to which movie we currently watch. It helps us waste less time browsing the next one. Also, it matters to the user because some movies don't show us a good impression on the poster. So we may miss the chance to explore new genres of cinema. Example: "Inception" is epic sci-fi. But the movie recommendation is "The Animal" which is also sci-fi, but the poster doesn't give us the high expression about that a good movie.
-- 
+
 - Another researcher do searching engine using a matrix factorizations algorithm. We used the cosine similarity algorithm to detect the closer
 neighbors with the input data from the search. Another researcher implemented the database with the plain Python script to return the 
 movie recommendation to the database and render the result throughout the front-end site.
