@@ -120,9 +120,18 @@ Create an account in [the movie database](https://www.themoviedb.org/.)[5] Once 
 6. Hurray! That's it.
 
 ## Discussion
+- The movie recommendation helps us suggest which movie has related to which movie we currently watch. It helps us waste less time browsing the next one. Also, it matters to the user because some movies don't show us a good impression on the poster. So we may miss the chance to explore new genres of cinema. Example: "Inception" is epic sci-fi. But the movie recommendation is "The Animal" which is also sci-fi, but the poster doesn't give us the high expression about that a good movie.
+- 
+- Another researcher do searching engine using a matrix factorizations algorithm. We used the cosine similarity algorithm to detect the closer
+neighbors with the input data from the search. Another researcher implemented the database with the plain Python script to return the 
+movie recommendation to the database and render the result throughout the front-end site.
+
+- Future Research for movie recommendation is giving the user the rating and review for which movie they watched and leave the commend so that is another piece of information that we could able to apply hugging face model for anylyze the commend. Based on that, we could able to improve our movie recommendation more accuracy.
 
 ## Summary
+- How we turn the mathematics cosine similarity to our data and filter out the result like the way we represent and visualation it on the web-page
 
+- Second is how we dualing with the large dataset and run time complexity is one of the issue we may occur when we have been working on this project 
 ## Reference
 
 [1] [TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
@@ -134,3 +143,5 @@ Create an account in [the movie database](https://www.themoviedb.org/.)[5] Once 
 [4] [Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
 [5] [the movie database](https://www.themoviedb.org/.)
+
+[6] [Rate-5-Get-5-Movie-Recommendation-System] (https://github.com/lecritch/Rate-5-Get-5-Movie-Recommendation-System)
