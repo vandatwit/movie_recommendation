@@ -126,7 +126,7 @@ Create an account in [the movie database](https://www.themoviedb.org/.)[5] Once 
 neighbors with the input data from the search. Another researcher implemented the database with the plain Python script to return the 
 movie recommendation to the database and render the result throughout the front-end site.
 
-- Future Research for movie recommendation is giving the user the rating and review for which movie they watched and leave the commend so that is another piece of information that we could able to apply hugging face model for anylyze the commend. Based on that, we could able to improve our movie recommendation more accuracy.
+-- Future Research for movie recommendation is giving the user the rating and review for which movie they watched and leaving the commend. That is another piece of information we could apply the hugging face model for analyzing the commend. Based on that, we could improve our movie recommendation's accuracy.
 
 ## Summary
 - How we turn the mathematics cosine similarity to our data and filter out the result like the way we represent and visualation it on the web-page
