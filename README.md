@@ -144,4 +144,4 @@ movie recommendation to the database and render the result throughout the front-
 
 [5] [the movie database](https://www.themoviedb.org/.)
 
-[6] [Rate-5-Get-5-Movie-Recommendation-System] (https://github.com/lecritch/Rate-5-Get-5-Movie-Recommendation-System)
+[6] Rate-5-Get-5-Movie-Recommendation-System (https://github.com/lecritch/Rate-5-Get-5-Movie-Recommendation-System)
